@@ -30,6 +30,11 @@ body {
     z-index: 10;
 }
 
+.header-img {
+    background-image: url(../media/www.jpg);
+
+}
+
 .logo-img {
     width: 200px;
     height: 200px;
